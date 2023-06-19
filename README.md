@@ -1,10 +1,8 @@
 # Breast Cancer Detection Using CNN Trained On A Newly Collected Jordanian Dataset 
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+
 
 ## Getting Started
 
