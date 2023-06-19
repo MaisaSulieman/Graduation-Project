@@ -6,13 +6,19 @@ This project includes two outcomes, first, the annotated dataset can be used by 
 
 ## Authors
 
-###Kholoud Qubbaj kho20190116@std.psut.edu.jo
-###Maisaa Sulaiman mai20190142@std.psut.edu.jo
-###Supervisor: Osama Abdelhay o.abdelhay@psut.edu.jo
-###Medical Consultant: Dr. Yumna AlKhatib
+Kholoud Qubbaj kho20190116@std.psut.edu.jo
+
+Maisaa Sulaiman mai20190142@std.psut.edu.jo
+
+Supervisor: Osama Abdelhay o.abdelhay@psut.edu.jo
+
+Medical Consultant: Dr. Yumna AlKhatib
 
 ## Acknowledgments
 
-*Electronic Health Solutions HDA Team 
-*Ministry of Health Jordan 
-*Al Bashir Hospitals Administration 
+Electronic Health Solutions HDA Team
+
+Ministry of Health Jordan
+
+Al Bashir Hospitals Administration 
+
